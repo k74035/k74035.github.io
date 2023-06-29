@@ -10,3 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+  # sidebar navigation (categories)
+categories:
+  - title: "Python"
+    url: /categories/python/
+  - title: "Drone"
+    url: /categories/drone/
+  - title: "GitHub Blog"
+    url: /categories/github-blog/
