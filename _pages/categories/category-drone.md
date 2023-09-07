@@ -3,7 +3,7 @@ title: "Drone"
 layout: category
 permalink: /categories/drone/
 author_profile: true
-taxonomy: drone
+taxonomy: Drone
 sidebar:
   nav: "categories"
 ---
