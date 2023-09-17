@@ -1,7 +1,7 @@
 ---
 title: "Club"
 layout: category
-permalink: /categories/Club/
+permalink: /categories/club/
 author_profile: true
 taxonomy: Club
 sidebar:
