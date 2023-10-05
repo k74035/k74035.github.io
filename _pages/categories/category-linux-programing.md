@@ -3,7 +3,7 @@ title: "Linux-Programing"
 layout: category
 permalink: /categories/linux-programing/
 author_profile: true
-taxonomy: LinuxPrograming
+taxonomy: Linux-Programing
 sidebar:
   nav: "categories"
 ---
