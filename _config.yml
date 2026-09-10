@@ -47,3 +47,5 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
+      sidebar:
+        nav: "categories"
