@@ -1,0 +1,49 @@
+remote_theme: "mmistakes/minimal-mistakes"
+
+minimal_mistakes_skin: "contrast"
+locale: "ko-KR"
+title: "백수의 코딩입문 탈출기"
+title_separator: "-"
+name: "쀠리삣"
+url: "https://k74035.github.io"
+baseurl: ""
+repository: "k74035/k74035.github.io"
+
+search: true
+breadcrumbs: false
+words_per_minute: 200
+
+author:
+  name: "쀠리삣"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/k74035"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+
+include:
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      toc: true
+      toc_sticky: true
