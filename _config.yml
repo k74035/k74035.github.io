@@ -16,6 +16,9 @@ words_per_minute: 200
 author:
   name: "쀠리삣"
   links:
+    - label: "일지"
+      icon: "fas fa-fw fa-book"
+      url: "/categories/diary/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/k74035"
