@@ -1,8 +1,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "일지"
-    url: /categories/diary/
   - title: "GitHub"
     url: "https://github.com/k74035"
 
